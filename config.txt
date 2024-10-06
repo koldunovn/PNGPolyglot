@@ -1,0 +1,6 @@
+# OpenAI API Configuration
+API_KEY=Your_OpenAI_API_key
+MODEL_VERSION=gpt-4o-mini
+TARGET_LANGUAGE=Russian
+INPUT_PGN=/Users/username/PYTHON/chess/file_english.pgn
+OUTPUT_PGN=file_russian.pgn
