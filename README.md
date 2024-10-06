@@ -2,7 +2,7 @@
 
 **PGNPolyglot** is a Python script that translates chess annotations and comments in PGN (Portable Game Notation) files into any target language using OpenAI's language models. This tool is designed to help chess enthusiasts, coaches, and players around the world access annotated games in their preferred language.
 
-**Cost:**: Script uses OpenAI API, that cost money. However translation of moderate-size file with comments will cost you just a few cents (also depends on the model you choose).
+**Cost:** Script uses OpenAI API, that cost money. However translation of moderate-size file with comments will cost you just a few cents (also depends on the model you choose).
 
 ## Features
 
